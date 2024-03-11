@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    height: 80%;
+    margin-top: 5em;
+}
+
+.imgHome{
+    height: 30em;
+    width: 30em;
+    border-radius: 14em;
+}
+
+main img {
+    height: 20em;
+    width: 30em;
+    border-radius: 1em;
+    border: 2px solid #fff;
+}
+
+main .container button {
+    width: 10em;
+}
+
+#modal1 {
+    display: none;
+}
+
+
+
